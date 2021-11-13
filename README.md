@@ -4,7 +4,7 @@
 <h3 align="center">I'm an Aspiring Software Engineer and am currenly a CS undergrad at RYERSON UNIVERSITY, Toronto.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🔭 I’m currently working on **Web-Development**
 
