@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4E03AQF5dthkcfyqFw/profile-displayphoto-shrink_800_800/0/1640462966541?e=1646870400&v=beta&t=jwYmi0YDC3OO5H3kVNTvPc7Eff8eSrQjyJ_Yl4pb4yQ" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya</h1>
 <h3 align="center">I'm an Aspiring Software Engineer and am currenly a CS undergrad at RYERSON UNIVERSITY, Toronto.</h3>
