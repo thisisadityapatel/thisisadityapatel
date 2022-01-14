@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/13HgwGsXF0aiGY"></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya</h1>
 <h3 align="center">I'm an Aspiring Software Engineer and am currenly a CS undergrad at RYERSON UNIVERSITY, Toronto.</h3>
